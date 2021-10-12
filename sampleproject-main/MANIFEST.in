@@ -1,13 +1,5 @@
-include pyproject.toml
-
-# Include the README
-include *.md
-
-# Include the license file
+include README.md
 include LICENSE.txt
-
-# Include setup.py
-include setup.py
-
-# Include the data files
-recursive-include data *
+include requirements.txt
+include src/fact/py.typed
+recursive-exclude tests *

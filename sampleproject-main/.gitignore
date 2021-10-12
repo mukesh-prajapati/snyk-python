@@ -1,13 +1,16 @@
-# general things to ignore
-build/
-dist/
-*.egg-info/
-*.egg
-*.py[cod]
-__pycache__/
-*.so
-*~
-
-# due to using tox and pytest
+*.egg-info
 .tox
-.cache
+.idea
+__pycache__
+.coverage
+.coverage.*
+htmlcov
+*.pyc
+venv
+dist
+.pytest_cache
+.mypy_cache
+build
+
+docs/api/_build
+docs/user_guide/site
