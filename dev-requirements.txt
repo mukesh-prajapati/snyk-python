@@ -87,7 +87,7 @@ mccabe==0.6.1
     # via flake8
 mergedeep==1.3.4
     # via mkdocs
-mkdocs==1.2.2
+mkdocs==1.2.3
     # via
     #   mkdocs-htmlproofer-plugin
     #   mkdocs-material
