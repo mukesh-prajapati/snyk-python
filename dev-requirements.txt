@@ -87,7 +87,7 @@ mccabe==0.6.1
     # via flake8
 mergedeep==1.3.4
     # via mkdocs
-mkdocs==1.2.2
+mkdocs==1.3.0
     # via
     #   mkdocs-htmlproofer-plugin
     #   mkdocs-material
@@ -213,3 +213,4 @@ zipp==3.5.0
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
