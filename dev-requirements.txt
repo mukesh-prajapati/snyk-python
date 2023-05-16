@@ -133,7 +133,7 @@ pygments==2.9.0
     # via
     #   mkdocs-material
     #   sphinx
-pymdown-extensions==8.2
+pymdown-extensions==10.0
     # via mkdocs-material
 pyparsing==2.4.7
     # via packaging
@@ -196,7 +196,7 @@ toml==0.10.2
     #   tox
 tomli==1.2.1
     # via black
-tornado==6.1
+tornado==6.3.2
     # via livereload
 tox==3.24.1
     # via -r dev-requirements.in
