@@ -155,7 +155,7 @@ pyyaml-env-tag==0.1
     # via mkdocs
 regex==2021.8.3
     # via black
-requests==2.26.0
+requests==2.31.0
     # via
     #   mkdocs-htmlproofer-plugin
     #   sphinx
