@@ -87,7 +87,7 @@ mccabe==0.6.1
     # via flake8
 mergedeep==1.3.4
     # via mkdocs
-mkdocs==1.2.2
+mkdocs==1.3.0
     # via
     #   mkdocs-htmlproofer-plugin
     #   mkdocs-material
@@ -133,7 +133,7 @@ pygments==2.9.0
     # via
     #   mkdocs-material
     #   sphinx
-pymdown-extensions==8.2
+pymdown-extensions==10.0
     # via mkdocs-material
 pyparsing==2.4.7
     # via packaging
